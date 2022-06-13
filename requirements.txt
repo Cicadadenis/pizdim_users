@@ -1,0 +1,6 @@
+sqlite3
+aiogram
+telethon
+pyrogram
+requests_html
+rich
